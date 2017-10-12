@@ -7,7 +7,7 @@
 Inspired by Joachim Ante at [Unite Europe 2017 - C# job system & compiler
 ](https://www.youtube.com/watch?v=AXUvnk7Jws4&t=317s).
 Joachim showed how a boids simulation performance increases when using the new Job system, taking full advantage of the multi CPU/Core architecture
-![](http://images2017.cnblogs.com/blog/686199/201708/686199-20170809171205839-798816805.gif)
+![](http://upload-images.jianshu.io/upload_images/1372105-587750bad15322a0.gif?imageMogr2/auto-orient/strip)
 
 Instead of that,I make the GPU-based flocking system.
 Boids behavior calculation code is modified to utilize Microsoft Direct Compute resulting significant improvements in Performance.
