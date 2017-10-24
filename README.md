@@ -13,6 +13,9 @@ Instead of that,I make the GPU-based flocking system.
 Boids behavior calculation code is modified to utilize Microsoft Direct Compute resulting significant improvements in Performance.
 ![](http://images2017.cnblogs.com/blog/686199/201708/686199-20170812082052304-350636820.gif)
 
-####Ref
+#### Article(Chinese)
+[利用GPGPU计算大规模群落仿真行为](http://www.cnblogs.com/murongxiaopifu/p/7308366.html)
+
+#### Ref
 
 [Boids](https://www.red3d.com/cwr/boids/)
