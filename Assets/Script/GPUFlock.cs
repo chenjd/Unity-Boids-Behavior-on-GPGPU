@@ -67,7 +67,7 @@ public class GPUFlock : MonoBehaviour {
         );
 
 
-        ComputeBuffer buffer = new ComputeBuffer(boidsCount, 56);
+        ComputeBuffer buffer = new ComputeBuffer(boidsCount, 48);
 
         for (int i = 0; i < this.boidsData.Length; i++)
         {
