@@ -1,8 +1,13 @@
 # Unity Boids Behavior on GPGPU
-----
+
 ![GitHub](https://img.shields.io/github/license/chenjd/Unity-Boids-Behavior-on-GPGPU)
 ![](https://img.shields.io/badge/platform-win--64-brightgreen)
 ![](https://img.shields.io/badge/unity-5.6%2B-brightgreen)
+![Build By Action](https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU/workflows/Build%20By%20Action/badge.svg)
+
+#### Update
+Add GitHub Action CI/CD pipeline, you can find the latest exe file at Actions page.
+
 #### Description：
 
 Implement Boids simulation using Compute Shader.
